@@ -21,12 +21,13 @@ The first use i give to this profile y to save my homework or the class projets,
 i have no idea of programming technologies, but i know how to use Kicad.
 I used to programm in C and C++ (Java i hate u), obviusly focused in microcontrollers
 
-<p align="left">
+<p align="center">
   <a href="https://www.kicad.org/" target="_blank"> 
-    <img src="https://www.kicad.org/img/kicad_logo_small.png" alt="KiCad" width="40" height="40"/> 
-  </a>
+    <img src="https://www.kicad.org/img/kicad_logo_small.png" alt="KiCad" width="60" height="40"/> 
+  </a> 
+  &nbsp;&nbsp;
   <a href="(https://isocpp.org/" target="_blank"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="react" width="40" height="40"/> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="cpp" width="60" height="60"/> 
   </a>
 </p>
 
