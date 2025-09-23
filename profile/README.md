@@ -1,5 +1,5 @@
 # ¡Welcome to my Github Profile!
-## About me
+## About me 🥸
 Hi there, i'm Victor Sanchez and i'm in two Universities.
 Im studing Computer Ingeneering and telecommunications engineering, in UAM and UNAM respectly.
 The first use i give to this profile y to save my homework or the class projets, Unfortunately i have no aprobe the POO a signature but maybe in a future y update the repository
@@ -17,7 +17,7 @@ The first use i give to this profile y to save my homework or the class projets,
 </div>
 <br>
 
-### Technologies???????
+### Technologies??????? 🔬
 i have no idea of programming technologies, but i know how to use Kicad.
 I used to programm in C and C++ (Java i hate u), obviusly focused in microcontrollers
 
