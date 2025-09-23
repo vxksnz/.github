@@ -32,7 +32,7 @@ I used to programm in C and C++ (Java i hate u), obviusly focused in microcontro
 
 ## Projects
 - Flight Computer "Nebula": This is a engenieering project of a rocketry team in UAM, i work in all of the electronics, and maybe i'll develop the supply board code idk.
- - [![Nebula](https://github-readme-stats.vercel.app/api/pin/?username=XimbalEk-Electronica&repo=CompVuelo&theme=dracula)](https://github.com/XimbalEk-Electronica/CompVuelo)
+[![Nebula](https://github-readme-stats.vercel.app/api/pin/?username=XimbalEk-Electronica&repo=CompVuelo&theme=dracula)](https://github.com/XimbalEk-Electronica/CompVuelo)
 - CanSat Flight Computer: Same as the last project, i work in all of the electronics, and develop the code.
- - [![CanSat](https://github-readme-stats.vercel.app/api/pin/?username=XimbalEk-Electronica&repo=CompVuelo&theme=dracula)](https://github.com/XimbalEk-Electronica/CompVuelo)
+[![CanSat](https://github-readme-stats.vercel.app/api/pin/?username=XimbalEk-Electronica&repo=CompVuelo&theme=dracula)](https://github.com/XimbalEk-Electronica/CompVuelo)
 
