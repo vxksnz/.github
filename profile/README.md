@@ -1,5 +1,8 @@
 # ¡Welcome to my Github Profile!
-
+## About me
+Hi there, i'm Victor Sanchez and i'm in two Universities.
+Im studing Computer Ingeneering and telecommunications engineering, in UAM and UNAM respectly.
+The first use i give to this profile y to save my homework or the class projets, Unfortunately i have no aprobe the POO a signature but maybe in a future y update the repository
 <br>
 <div align="center">
   <a href="https://github.com/vxksnz">
@@ -13,11 +16,6 @@
   </a>
 </div>
 <br>
-
-## About me
-Hi there, i'm Victor Sanchez and i'm in two Universities.
-Im studing Computer Ingeneering and telecommunications engineering, in UAM and UNAM respectly.
-The first use i give to this profile y to save my homework or the class projets, Unfortunately i have no aprobe the POO a signature but maybe in a future y update the repository
 
 ### Tecnlogies???????
 i have no idea of programming technologies, but i know how to use Kicad.
@@ -33,5 +31,8 @@ I used to programm in C and C++ (Java i hate u), obviusly focused in microcontro
 </p>
 
 ## Projects
-[![REPOOOO](https://github-readme-stats.vercel.app/api/pin/?username=XimbalEk-Electronica&repo=CompVuelo&theme=dracula)](https://github.com/XimbalEk-Electronica/CompVuelo)
+- Flight Computer "Nebula": This is a engenieering project of a rocketry team in UAM, i work in all of the electronics, and maybe i'll develop the supply board code idk.
+-- [![Nebula](https://github-readme-stats.vercel.app/api/pin/?username=XimbalEk-Electronica&repo=CompVuelo&theme=dracula)](https://github.com/XimbalEk-Electronica/CompVuelo)
+- CanSat Flight Computer: Same as the last project, i work in all of the electronics, and develop the code.
+-- [![CanSat](https://github-readme-stats.vercel.app/api/pin/?username=XimbalEk-Electronica&repo=CompVuelo&theme=dracula)](https://github.com/XimbalEk-Electronica/CompVuelo)
 
