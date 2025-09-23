@@ -33,5 +33,5 @@ I used to programm in C and C++ (Java i hate u), obviusly focused in microcontro
 </p>
 
 ## Projects
-[![REPOOOO](https://github-readme-stats.vercel.app/api/pin/?username=XimbalEk-Electronica&repo=CompVuelo)](https://github.com/XimbalEk-Electronica/CompVuelo)
+[![REPOOOO](https://github-readme-stats.vercel.app/api/pin/?username=XimbalEk-Electronica&repo=CompVuelo&theme=dracula)](https://github.com/XimbalEk-Electronica/CompVuelo)
 
