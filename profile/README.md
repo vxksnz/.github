@@ -17,7 +17,7 @@ The first use i give to this profile y to save my homework or the class projets,
 </div>
 <br>
 
-### Tecnlogies???????
+### Technologies???????
 i have no idea of programming technologies, but i know how to use Kicad.
 I used to programm in C and C++ (Java i hate u), obviusly focused in microcontrollers
 
