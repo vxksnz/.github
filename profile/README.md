@@ -1,4 +1,4 @@
-# ¡Bienvenido a mi perfil de GitHub!
+# ¡Welcome to my Github Profile!
 
 <br>
 <div align="center">
@@ -14,28 +14,24 @@
 </div>
 <br>
 
-## Sobre Mí
-Soy un [Tu Rol, ej: Ingeniero de Software, Estudiante de Desarrollo] apasionado por [Tu Interés Principal]. Disfruto creando soluciones eficientes y aprendiendo nuevas tecnologías.
+## About me
+Hi there, i'm Victor Sanchez and i'm in two Universities.
+Im studing Computer Ingeneering and telecommunications engineering, in UAM and UNAM respectly.
+The first use i give to this profile y to save my homework or the class projets, Unfortunately i have no aprobe the POO a signature but maybe in a future y update the repository
 
-### 🛠️ Mis Tecnologías Favoritas
+### Tecnlogies???????
+i have no idea of programming technologies, but i know how to use Kicad.
+I used to programm in C and C++ (Java i hate u), obviusly focused in microcontrollers
+
 <p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+  <a href="https://www.kicad.org/" target="_blank"> 
+    <img src="https://www.kicad.org/img/kicad_logo_small.png" alt="KiCad" width="40" height="40"/> 
   </a>
-  <a href="https://reactjs.org/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-  </a>
-  <a href="https://www.java.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+  <a href="(https://isocpp.org/" target="_blank"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="react" width="40" height="40"/> 
   </a>
 </p>
 
-### 📫 Contacto
-- **LinkedIn:** https://www.linkedin.com/help/linkedin/answer/a548467/-como-creo-un-buen-perfil-de-linkedin-?lang=es
-- **Portafolio:** https://www.tuportafolio.com/
+## Projects
+[![REPOOOO](https://github-readme-stats.vercel.app/api/pin/?username=XimbalEk-Electronica&repo=CompVuelo)](https://github.com/XimbalEk-Electronica/CompVuelo)
+
