@@ -6,6 +6,8 @@
     <img src="https://github-readme-stats.vercel.app/api?username=vxksnz&show_icons=true&theme=dracula&line_height=27" alt="Estadísticas de GitHub de vxksnz"/>
   </a>
   <br>
+  <br>
+  <br>
   <a href="https://github.com/vxksnz">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vxksnz&layout=compact&theme=dracula" alt="Lenguajes más usados por vxksnz"/>
   </a>
