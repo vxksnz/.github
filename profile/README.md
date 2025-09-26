@@ -31,6 +31,8 @@ I used to programm in C and C++ (Java i hate u), obviusly focused in microcontro
   </a>
 </p>
 
+"Is this over complicated? maybe, but I am an engineer which means that it is my job to over complicate the things" - Joe Barnard (BPS.Space)
+
 ## 🚀 Aerospace Engineering Projects
 
 | Flight Computer "Nebula" | CanSat Flight Computer |
