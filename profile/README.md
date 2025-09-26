@@ -31,7 +31,7 @@ I used to programm in C and C++ (Java i hate u), obviusly focused in microcontro
   </a>
 </p>
 
-"Is this over complicated? maybe, but I am an engineer which means that it is my job to over complicate the things" - Joe Barnard (BPS.Space)
+
 
 ## 🚀 Aerospace Engineering Projects
 
@@ -39,4 +39,6 @@ I used to programm in C and C++ (Java i hate u), obviusly focused in microcontro
 | :---: | :---: |
 | This is a engineering project of a rocketry team in UAM, i work in all of the electronics, and maybe i'll develop the supply board code idk. | Same as the last project, i work in all of the electronics, and develop the code. |
 | [![Nebula](https://github-readme-stats.vercel.app/api/pin/?username=XimbalEk-Electronica&repo=CompVuelo&theme=dracula)](https://github.com/XimbalEk-Electronica/CompVuelo) | [![CanSat](https://github-readme-stats.vercel.app/api/pin/?username=S-T-R-I-K-E-Aerospace&repo=CanSat-PCB&theme=dracula)](https://github.com/S-T-R-I-K-E-Aerospace/CanSat-PCB) |
+
+**"Is this over complicated? maybe, but I am an engineer which means that it is my job to over complicate the things" - Joe Barnard (BPS.Space)**
 
