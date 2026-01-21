@@ -1,4 +1,4 @@
-# ¡Welcome to my Github Profile!
+# Welcome to my Github Profile!
 ## About me 🥸
 Hi there, i'm Victor Sanchez and i'm studying at two Universities.
 Im studing Computer and telecommunications engineering, in UAM and UNAM respectly.
