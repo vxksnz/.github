@@ -1,39 +1,82 @@
-# Welcome to my Github Profile!
-## About me 🥸
-Hi there, I'm Victor Sanchez and I'm studying at two Universities.
-I'm studying Computer and Telecommunications Engineering at UAM and UNAM respectively.
-The first use I give to this profile is to save my homework or class projects. Unfortunately I have not approved the OOP subject, but maybe in the future I'll update the repository.
-<br>
 <div align="center">
-  <a href="https://github.com/vxksnz">
-    <img src="https://github-readme-stats.vercel.app/api?username=vxksnz&show_icons=true&theme=dracula&line_height=27" alt="Estadísticas de GitHub de vxksnz"/>
-  </a>
-  <br>
-  <br>
-  <br>
-  <a href="https://github.com/vxksnz">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vxksnz&layout=compact&theme=dracula" alt="Lenguajes más usados por vxksnz"/>
-  </a>
-</div>
-<br>
 
-### Technologies? 🔬
-I have no idea of programming technologies, but I know how to use KiCad.
-I used to program in C and C++ (Java I hate you), obviously focused on microcontrollers.
-<p align="center">
-  <a href="https://www.kicad.org/" target="_blank"> 
-    <img src="https://www.kicad.org/img/kicad_logo_small.png" alt="KiCad" width="60" height="40"/> 
-  </a> 
-  &nbsp;&nbsp;
-  <a href="https://isocpp.org/" target="_blank"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="cpp" width="60" height="60"/> 
-  </a>
-</p>
+  <!-- Contador de visitas -->
+  ![Profile Views](https://komarev.com/ghpvc/?username=vxksnz&color=ff79c6&style=flat-square&label=Profile+Views)
+
+  # Hey, I'm Victor Sanchez 👋🛸
+
+  *Computer & Telecommunications Engineering student @ UAM + UNAM*
+
+  [![UAM](https://img.shields.io/badge/UAM-004A97?style=for-the-badge&logoColor=white)](https://www.uam.mx/)
+  [![UNAM](https://img.shields.io/badge/UNAM-002F6C?style=for-the-badge&logoColor=white)](https://www.unam.mx/)
+
+</div>
+
+---
+
+## 🥸 About me
+
+I use this profile mainly to store homework and class projects.
+I'm focused on **electronics for aerospace systems** — from microcontrollers to full flight computers.
+Currently surviving two universities at once (send help).
+
+> I haven't passed the OOP subject yet, but the repository will be updated eventually. Maybe.
+
+---
+
+## 🔬 Tech Stack
+
+<div align="center">
+
+  [![My Skills](https://skillicons.dev/icons?i=c,cpp,git,github,linux&theme=dark)](https://skillicons.dev)
+
+  <!-- KiCad no está en skillicons, usamos shields -->
+  ![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white)
+  ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+  ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+  <!-- Streak stats - más confiable que vercel -->
+  [![GitHub Streak](https://streak-stats.demolab.com?user=vxksnz&theme=dracula&hide_border=true&border_radius=10)](https://git.io/streak-stats)
+
+  <br/>
+
+  <!-- Trofeos -->
+  [![Trophy](https://github-profile-trophy.vercel.app/?username=vxksnz&theme=dracula&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+
+  <br/>
+
+  <!-- Lenguajes más usados -->
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vxksnz&layout=compact&theme=dracula&hide_border=true&border_radius=10)
+
+</div>
+
+---
 
 ## 🚀 Aerospace Engineering Projects
-| Flight Computer "Mixcoatl" | CanSat Flight Computer |
-| :---: | :---: |
-| This is an engineering project of a rocketry team at UAM. I work on all of the electronics, and maybe I'll develop the supply board code, idk. | Same as the last project, I work on all of the electronics, and develop the code. |
-| [![Mixcoatl](https://github.com/XimbalEk-Electronica/CompVuelo)](https://github.com/XimbalEk-Electronica/CompVuelo) | [![CanSat](https://github.com/S-T-R-I-K-E-Aerospace/Cansat_Huitzilin)](https://github.com/S-T-R-I-K-E-Aerospace/Cansat_Huitzilin) |
 
-**"Is this over complicated? Maybe, but I am an engineer which means that it is my job to over complicate things" - Joe Barnard (BPS.Space)**
+<div align="center">
+
+| 🛸 Flight Computer "Mixcoatl" | 🛰️ CanSat "Huitzilin" |
+|:---:|:---:|
+| Rocketry team project @ UAM. I designed all the electronics and I'm working on the supply board firmware. | Full CanSat flight computer — electronics design + firmware development. |
+| [![Mixcoatl](https://img.shields.io/badge/XimbalEk--%20CompVuelo-ff79c6?style=for-the-badge&logo=github)](https://github.com/XimbalEk-Electronica/CompVuelo) | [![CanSat](https://img.shields.io/badge/S--T--R--I--K--E--%20Huitzilin-bd93f9?style=for-the-badge&logo=github)](https://github.com/S-T-R-I-K-E-Aerospace/Cansat_Huitzilin) |
+
+</div>
+
+---
+
+<div align="center">
+
+*"Is this over-complicated? Maybe. But I am an engineer,*
+*which means it is my job to over-complicate things."*
+**— Joe Barnard (BPS.Space)**
+
+</div>
