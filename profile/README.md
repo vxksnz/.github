@@ -1,8 +1,8 @@
 # Welcome to my Github Profile!
 ## About me 🥸
-Hi there, i'm Victor Sanchez and i'm studying at two Universities.
-Im studing Computer and telecommunications engineering, in UAM and UNAM respectly.
-The first use i give to this profile is to save my homework or the class projets, Unfortunately i have no aprobe the POO asignature but maybe in a future i update the repository
+Hi there, I'm Victor Sanchez and I'm studying at two Universities.
+I'm studying Computer and Telecommunications Engineering at UAM and UNAM respectively.
+The first use I give to this profile is to save my homework or class projects. Unfortunately I have not approved the OOP subject, but maybe in the future I'll update the repository.
 <br>
 <div align="center">
   <a href="https://github.com/vxksnz">
@@ -17,28 +17,23 @@ The first use i give to this profile is to save my homework or the class projets
 </div>
 <br>
 
-### Technologies??????? 🔬
-i have no idea of programming technologies, but i know how to use Kicad.
-I used to programm in C and C++ (Java i hate u), obviusly focused in microcontrollers.
-
+### Technologies? 🔬
+I have no idea of programming technologies, but I know how to use KiCad.
+I used to program in C and C++ (Java I hate you), obviously focused on microcontrollers.
 <p align="center">
   <a href="https://www.kicad.org/" target="_blank"> 
     <img src="https://www.kicad.org/img/kicad_logo_small.png" alt="KiCad" width="60" height="40"/> 
   </a> 
   &nbsp;&nbsp;
-  <a href="(https://isocpp.org/" target="_blank"> 
+  <a href="https://isocpp.org/" target="_blank"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="cpp" width="60" height="60"/> 
   </a>
 </p>
 
-
-
 ## 🚀 Aerospace Engineering Projects
-
-| Flight Computer "Nebula" | CanSat Flight Computer |
+| Flight Computer "Mixcoatl" | CanSat Flight Computer |
 | :---: | :---: |
-| This is a engineering project of a rocketry team in UAM, i work in all of the electronics, and maybe i'll develop the supply board code idk. | Same as the last project, i work in all of the electronics, and develop the code. |
-| [![Nebula](https://github-readme-stats.vercel.app/api/pin/?username=XimbalEk-Electronica&repo=CompVuelo&theme=dracula)](https://github.com/XimbalEk-Electronica/CompVuelo) | [![CanSat](https://github-readme-stats.vercel.app/api/pin/?username=S-T-R-I-K-E-Aerospace&repo=Cansat_Huitzilin&theme=dracula)](https://github.com/S-T-R-I-K-E-Aerospace/Cansat_Huitzilin) |
+| This is an engineering project of a rocketry team at UAM. I work on all of the electronics, and maybe I'll develop the supply board code, idk. | Same as the last project, I work on all of the electronics, and develop the code. |
+| [![Mixcoatl](https://github.com/XimbalEk-Electronica/CompVuelo)](https://github.com/XimbalEk-Electronica/CompVuelo) | [![CanSat](https://github.com/S-T-R-I-K-E-Aerospace/Cansat_Huitzilin)](https://github.com/S-T-R-I-K-E-Aerospace/Cansat_Huitzilin) |
 
-**"Is this over complicated? maybe, but I am an engineer which means that it is my job to over complicate the things" - Joe Barnard (BPS.Space)**
-
+**"Is this over complicated? Maybe, but I am an engineer which means that it is my job to over complicate things" - Joe Barnard (BPS.Space)**
