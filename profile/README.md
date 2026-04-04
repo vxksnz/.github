@@ -1,6 +1,5 @@
 <div align="center">
 
-  <!-- Contador de visitas -->
   ![Profile Views](https://komarev.com/ghpvc/?username=vxksnz&color=ff79c6&style=flat-square&label=Profile+Views)
 
   # Hey, I'm Victor Sanchez 👋🛸
@@ -30,7 +29,8 @@ Currently surviving two universities at once (send help).
 
   [![My Skills](https://skillicons.dev/icons?i=c,cpp,git,github,linux&theme=dark)](https://skillicons.dev)
 
-  <!-- KiCad no está en skillicons, usamos shields -->
+  <br/>
+
   ![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white)
   ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
   ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -43,18 +43,7 @@ Currently surviving two universities at once (send help).
 
 <div align="center">
 
-  <!-- Streak stats - más confiable que vercel -->
   [![GitHub Streak](https://streak-stats.demolab.com?user=vxksnz&theme=dracula&hide_border=true&border_radius=10)](https://git.io/streak-stats)
-
-  <br/>
-
-  <!-- Trofeos -->
-  [![Trophy](https://github-profile-trophy.vercel.app/?username=vxksnz&theme=dracula&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
-
-  <br/>
-
-  <!-- Lenguajes más usados -->
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vxksnz&layout=compact&theme=dracula&hide_border=true&border_radius=10)
 
 </div>
 
