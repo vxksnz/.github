@@ -19,7 +19,6 @@ I use this profile mainly to store homework and class projects.
 I'm focused on **electronics for aerospace systems** — from microcontrollers to full flight computers.
 Currently surviving two universities at once (send help).
 
-> I haven't passed the OOP subject yet, but the repository will be updated eventually. Maybe.
 
 ---
 
