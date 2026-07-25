@@ -55,7 +55,8 @@ Currently surviving two universities at once (send help).
 | 🛸 Flight Computer "Mixcoatl" | 🛰️ CanSat "Huitzilin" |
 |:---:|:---:|
 | Rocketry team project @ UAM. I designed all the electronics and I'm working on the supply board firmware. | Full CanSat flight computer — electronics design + firmware development. |
-| [![Mixcoatl](https://img.shields.io/badge/XimbalEk--%20CompVuelo-ff79c6?style=for-the-badge&logo=github)](https://github.com/XimbalEk-Electronica/CompVuelo) | [![CanSat](https://img.shields.io/badge/S--T--R--I--K--E--%20Huitzilin-bd93f9?style=for-the-badge&logo=github)](https://github.com/S-T-R-I-K-E-Aerospace/Cansat_Huitzilin) |
+| [![Mixcoatl](https://img.shields.io/badge/XimbalEk--%20CompVuelo-ff79c6?style=for-the-badge&logo=github)](https://github.com/XimbalEk-Electronica/CompVuelo) | [![CanSat](https://img.shields.io/badge/S--T--R--I--K--E--%20Huitzilin-bd93f9?style=for-the-badge&logo=github)](https://github.com/vxksnz/CansatHuitzilin-deadProject.git) |
+
 
 </div>
 
